@@ -1,0 +1,4 @@
+baseurl = "http://recept.granberg.in"
+languageCode = "en-us"
+title = "Recept"
+theme = "liquorice"
