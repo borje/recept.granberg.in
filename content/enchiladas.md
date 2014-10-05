@@ -1,15 +1,13 @@
 +++
 date = "2014-09-19T14:30:01+02:00"
-draft = false
 title = "Enchiladas"
-tags = ["köttfärs"]
+tags = ["köttfärs", "tortillas"]
+categories = ["fredagsmat"]
 bild = "http://www.klesickfamilyfarm.com/main/wp-content/uploads/2012/10/chickenchilada.jpeg"
-
 +++
 
-# Enchiladas
-## Ingredienser
-- 8 torillas
+### Ingredienser
+- 8 tortillas
 - 400g blandfärs
 - 1 gul lök
 - 1 tsk salt
@@ -17,7 +15,7 @@ bild = "http://www.klesickfamilyfarm.com/main/wp-content/uploads/2012/10/chicken
 - 1/2 burk cheese salsa
 - 3 tomater
 
-## Sås
+### Sås
 - 3dl köttbuljong
 - 2 msk tomatpuré
 - 2 dl creme fraiche
