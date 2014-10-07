@@ -20,3 +20,5 @@ var tipuesearch_stem = {"words": [
      {"word": "javascript", "stem": "js"}
 ]};
 
+var tipuesearch_pages = ["/recept/hallonpaj", "/recept/enchiladas"]
+

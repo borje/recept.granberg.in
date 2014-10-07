@@ -11,6 +11,10 @@ title = "search"
 
 <script>
 $(document).ready(function() {
-     $('#tipue_search_input').tipuesearch();
+     $('#tipue_search_input').tipuesearch(
+     {'mode': 'live',
+      'showURL': false,
+      'liveDescription': '.li-article-title',
+      'liveContent': '.li-article'});
 });
 </script>
