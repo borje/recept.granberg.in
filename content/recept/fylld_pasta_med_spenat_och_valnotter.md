@@ -10,7 +10,7 @@ title = "Fylld pasta med spenat och valnötter"
 
 4 portioner
 
-20 minuter
+<span class="glyphicon glyphicon-time"></span> 20 minuter
 
 ### Ingredienser
 - 500 g fylld färsk pasta
