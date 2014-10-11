@@ -2,3 +2,8 @@ baseurl = "http://recept.granberg.in"
 languageCode = "en-us"
 title = "Granberg & Lyrenäs receptsamling"
 theme = "bs-recipes"
+[[menu.main]]
+    name = "Kategorier"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/categories"
