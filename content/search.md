@@ -13,7 +13,8 @@ $(document).ready(function() {
      $('#tipue_search_input').tipuesearch(
      {'mode': 'live',
       'showURL': false,
-      'liveDescription': '.li-article-title',
-      'liveContent': '.li-article'});
+      'liveDescription': 'h1',
+      'liveContent': 'section',
+      'descriptiveWords': '0'});
 });
 </script>
