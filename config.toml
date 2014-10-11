@@ -1,4 +1,4 @@
 baseurl = "http://recept.granberg.in"
 languageCode = "en-us"
 title = "Granberg & Lyrenäs receptsamling"
-theme = "bootstrap"
+theme = "bs-recipes"
