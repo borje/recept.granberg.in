@@ -1,13 +1,14 @@
-all:
+hugo:
 	hugo
 
-server:
+tipue: hugo
+	./generateTipuePages.py public/recept
+	
+server: tipue
 	hugo server --watch
 
-publish:
+publish: tipue
 	test -e /Volumes/Web/recept
-	hugo
-	./generateTipuePages.py public/recept
 	hugo -d /Volumes/Web/recept
 
 clean:
