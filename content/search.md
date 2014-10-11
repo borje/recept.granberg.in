@@ -3,7 +3,6 @@ Categories = []
 Description = ""
 Tags = []
 date = "2014-10-06T21:16:45+02:00"
-title = "search"
 
 +++
 
