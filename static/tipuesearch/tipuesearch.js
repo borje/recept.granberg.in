@@ -325,7 +325,7 @@ http://www.tipue.com/search
                                              }
                                         }
                                         t_d = $.trim(t_d);
-                                        if (t_d.charAt(t_d.length - 1) != '.')
+                                        if (t_d.charAt(t_d.length - 1) != '.' && set.descriptiveWords > 0)
                                         {
                                              t_d += ' ...';
                                         }
