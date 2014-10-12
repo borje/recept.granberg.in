@@ -1,5 +1,5 @@
 +++
-bild = "http://img.tv4.se/convert/resize/640x480/source/http%3a%2f%2fwww.recept.nu%2fImageFiles%2f2009%2f03%2f09%2fimage(2).jpg/quality/100/shape/cut/"
+bild = "/img/food/baby_back_ribs.jpeg"
 categories = ["grillat"]
 date = "2014-10-12T00:03:32+02:00"
 description = ""
