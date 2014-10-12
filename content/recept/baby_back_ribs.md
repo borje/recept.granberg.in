@@ -2,7 +2,7 @@
 bild = "/img/food/baby_back_ribs.jpeg"
 categories = ["grillat"]
 date = "2014-10-12T00:03:32+02:00"
-description = ""
+description = "Ribs, eller revbensspjäll, är en klassiker på grillbordet."
 tags = []
 title = "Leilas Baby back ribs"
 
@@ -46,4 +46,5 @@ Portioner: 6
 1. Ta upp revbenen och torka det med hushållspapper, lägg dem på en ugnsplåt och pensla med BBQ glaze.
 1. Grilla dem och pensla på mer glaze under grillningen.
 
-
+#### Leilas rib-tips!
+Ribsen kan även göras i ugn men tiden kan variera beroende på ugn. Har man en ugn utan varmluft bör man höja temperaturen till 225-250 grader. Griljera tills glazen har fått fin färg och torkat in lite.
