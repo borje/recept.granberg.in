@@ -56,4 +56,4 @@ title = "Indisk kycklinggryta med gult ris"
 1. Vänd runt riset med russin, mandel och persilja. Servera med kycklingen.
 
 #### Tips!
-Om du vill ta n genväg, använd färdig kryddblandning Chicken Masala.
+Om du vill ta en genväg, använd färdig kryddblandning Chicken Masala.
