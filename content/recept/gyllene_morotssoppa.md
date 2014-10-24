@@ -9,7 +9,7 @@ title = "Gyllene morotssoppa"
 +++
 
 ### Ingredienser
-Portioner: 4
+<span class="glyphicon glyphicon-cutlery"></span> Portioner: 4
 
 - 5 morötter à 100 g
 - 1 gul lök

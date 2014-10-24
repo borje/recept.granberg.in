@@ -8,7 +8,7 @@ title = "Leilas Baby back ribs"
 
 +++
 
-Portioner: 6
+<span class="glyphicon glyphicon-cutlery"></span> Portioner: 6
 ### Ingredienser
 #### BBQ glaze
 

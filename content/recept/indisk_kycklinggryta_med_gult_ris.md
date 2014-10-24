@@ -8,7 +8,7 @@ title = "Indisk kycklinggryta med gult ris"
 
 +++
 
-Portioner: 4
+<span class="glyphicon glyphicon-cutlery"></span> Portioner: 4
 
 <span class="glyphicon glyphicon-time"></span> 40 minuter
 

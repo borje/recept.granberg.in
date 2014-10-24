@@ -8,7 +8,7 @@ title = "Gul paprikasoppa med knaprig pancetta"
 
 +++
 
-Portioner: 4
+<span class="glyphicon glyphicon-cutlery"></span> Portioner: 4
 
 ### Ingredienser
 - 1 röd lök

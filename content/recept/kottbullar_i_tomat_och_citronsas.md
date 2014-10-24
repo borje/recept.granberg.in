@@ -10,7 +10,7 @@ title = "Köttbullar i tomat och citronsås"
 
 
 ### Ingredienser
-Portioner: 4
+<span class="glyphicon glyphicon-cutlery"></span> Portioner: 4
 
 - 1 burk tomatsås/ pastasås (à 400-500 g)
 - ca 2 - 2 1/2 dl vatten
