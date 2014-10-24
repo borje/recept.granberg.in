@@ -8,7 +8,7 @@ title = "Fylld pasta med spenat och valnötter"
 
 +++
 
-4 portioner
+Portioner: 4
 
 <span class="glyphicon glyphicon-time"></span> 20 minuter
 
