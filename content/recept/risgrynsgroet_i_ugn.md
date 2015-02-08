@@ -1,6 +1,6 @@
 +++
 bild = "http://vardag.nu/wp-content/uploads/2012/10/klassisk-risgrynsgrot-640x425.jpg"
-categories = []
+categories = ["jul"]
 date = "2015-01-09T16:44:36+01:00"
 description = ""
 tags = []

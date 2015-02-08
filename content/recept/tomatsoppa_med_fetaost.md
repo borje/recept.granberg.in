@@ -1,6 +1,6 @@
 +++
 bild = "https://www.coop.se/EPiServerCommunity/Modules/ImageGallery/Thumbnails/89/8489/30929_158449.jpg"
-categories = []
+categories = ["soppa"]
 date = "2015-02-08T14:05:21+01:00"
 description = ""
 tags = []
