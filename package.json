@@ -1,0 +1,18 @@
+{
+  "name": "recept.granberg.in",
+  "version": "1.0.0",
+  "description": "Recept",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@granberg.in:/recipe-site"
+  },
+  "author": "Börje Granberg",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}
