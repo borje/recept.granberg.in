@@ -1,5 +1,5 @@
 +++
-bild = "/img/food/baby_back_ribs.jpeg"
+bild = "food/baby_back_ribs.jpeg"
 categories = ["grillat"]
 date = "2014-10-12T00:03:32+02:00"
 description = "Ribs, eller revbensspjäll, är en klassiker på grillbordet."

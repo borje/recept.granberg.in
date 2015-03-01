@@ -3,7 +3,7 @@ var gulp = require('gulp');
 var imageResize = require('gulp-image-resize');
  
 gulp.task('default', function () {
-  gulp.src('static/img/food/*')
+  gulp.src('static/img/**')
     .pipe(imageResize({ 
       width : 300,
       height : 275,
