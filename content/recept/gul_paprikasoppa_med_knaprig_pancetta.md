@@ -1,5 +1,5 @@
 +++
-bild = "http://www.ica.se/imagevaultfiles/id_17376/cf_1286/637429-gul_paprikasoppa_med_knaprig_pancetta-gul_p.jpg"
+bild = "food/gul_paprikasoppa_med_knaprig_pancetta.jpeg"
 categories = ["soppa", "vegetarisk"]
 date = "2014-10-11T20:23:27+02:00"
 description = "Bjuder du dina gäster på den här smakfulla och färgrika soppan kommer det att bli det godaste de ätit på länge. Gul paprika mixas med bland annat morot, selleri och citronjuice och förgylls med knaprig pancetta. En vinnande kombination!"

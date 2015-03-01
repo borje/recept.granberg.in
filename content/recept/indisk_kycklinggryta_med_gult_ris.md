@@ -1,5 +1,5 @@
 +++
-bild = "https://www.coop.se/EPiServerCommunity/Modules/ImageGallery/Thumbnails/81/12781/30994_158601.jpg"
+bild = "food/indisk_kycklinggryta_med_gult_ris.jpeg"
 categories = ["kyckling"]
 date = "2014-10-24T19:35:38+02:00"
 description = ""

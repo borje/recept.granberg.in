@@ -1,5 +1,5 @@
 +++
-bild = "http://img.tv4.se/convert/resize/640x480/source/http%3a%2f%2fwww.recept.nu%2fImageFiles%2f2012%2f03%2f02%2fimage(11).jpg/quality/100/shape/cut/"
+bild = "food/majonas_och_aioli.jpeg"
 categories = []
 date = "2014-11-24T18:52:10+01:00"
 description = "Uffes recept på majonäs"

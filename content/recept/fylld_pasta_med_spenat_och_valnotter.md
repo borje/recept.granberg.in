@@ -1,5 +1,5 @@
 +++
-bild = "https://www.coop.se/EPiServerCommunity/Modules/ImageGallery/Thumbnails/10/14110/31402_164413.jpg"
+bild = "food/fylld_pasta_med_spenat_och_valnotter.jpeg"
 categories = ["vegetarisk"]
 date = "2014-10-08T19:04:27+02:00"
 description = ""

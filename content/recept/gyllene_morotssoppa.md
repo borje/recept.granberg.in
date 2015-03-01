@@ -1,5 +1,5 @@
 +++
-bild = "http://www.ica.se/imagevaultfiles/id_16884/cf_1286/608371-gyllene_morotssoppa-gyllene_morotsoppa_b020.jpg"
+bild = "food/gyllene_morotssoppa.jpeg"
 categories = ["soppa", "vegetarisk"]
 date = "2014-10-12T09:33:25+02:00"
 description = "Denna gyllene morotssoppa är både mättande och god. Låt morot, potatis, lök och buljong koka med gurkmeja, kajennpeppar och ingefära före du mixar soppan. Tillsätt sedan grädden och toppa med grovt riven morot före servering. Detta är ett recept från Buffé nr 2, 2008."

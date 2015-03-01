@@ -3,7 +3,7 @@ date = "2014-09-19T14:30:01+02:00"
 title = "Enchiladas"
 tags = ["köttfärs", "tortillas"]
 categories = ["fredagsmat"]
-bild = "http://www.klesickfamilyfarm.com/main/wp-content/uploads/2012/10/chickenchilada.jpeg"
+bild = "food/enchiladas.jpeg"
 +++
 
 ### Ingredienser
