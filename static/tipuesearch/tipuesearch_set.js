@@ -20,4 +20,4 @@ var tipuesearch_stem = {"words": [
      {"word": "javascript", "stem": "js"}
 ]};
 
-var tipuesearch_pages = ["/recept", "/recept/enchiladas", "/recept/fylld_pasta_med_spenat_och_valnotter", "/recept/hallonpaj"];
+var tipuesearch_pages = ["/recept", "/recept/baby_back_ribs", "/recept/enchiladas", "/recept/fylld_pasta_med_spenat_och_valnotter", "/recept/gul_paprikasoppa_med_knaprig_pancetta", "/recept/gyllene_morotssoppa", "/recept/indisk_kycklinggryta_med_gult_ris", "/recept/kottbullar_i_tomat_och_citronsas", "/recept/kottbullar_med_kramig_risotto", "/recept/majonas_och_aioli", "/recept/ortlax_med_aioliyoghurt", "/recept/ortlax_med_aioliyoughurt", "/recept/risgrynsgroet_i_ugn", "/recept/tomatsoppa_med_fetaost"];
