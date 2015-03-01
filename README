@@ -1,0 +1,8 @@
+Requirements :
+hugo
+node.js
+gulp
+gulp-resize
+imagemagick
+graphics-magic
+
