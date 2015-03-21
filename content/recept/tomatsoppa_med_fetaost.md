@@ -5,12 +5,11 @@ date = "2015-02-08T14:05:21+01:00"
 description = ""
 tags = []
 title = "Tomatsoppa med fetaost"
+tid = "15 min"
+portioner = "4"
 
 +++
 
-<span class="glyphicon glyphicon-cutlery"></span> Portioner: 4
-
-<span class="glyphicon glyphicon-time"></span> 15 minuter
 #### Ingredienser
 
 - 1 finhackad lök

@@ -5,6 +5,7 @@ date = "2014-10-12T20:53:04+02:00"
 description = "Ett recept från Linas matkasse"
 tags = []
 title = "Köttbullar med krämig risoniotto"
+portioner = "4"
 
 +++
 ### Ingredienser

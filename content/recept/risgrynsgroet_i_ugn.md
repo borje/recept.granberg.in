@@ -5,6 +5,8 @@ date = "2015-01-09T16:44:36+01:00"
 description = ""
 tags = []
 title = "Risgrynsgröt i ugn"
+portioner = "6"
+tid = "1 1/2 timme"
 
 +++
 

@@ -5,10 +5,10 @@ date = "2014-10-12T00:03:32+02:00"
 description = "Ribs, eller revbensspjäll, är en klassiker på grillbordet."
 tags = []
 title = "Leilas Baby back ribs"
+portioner = "6"
 
 +++
 
-<span class="glyphicon glyphicon-cutlery"></span> Portioner: 6
 ### Ingredienser
 #### BBQ glaze
 

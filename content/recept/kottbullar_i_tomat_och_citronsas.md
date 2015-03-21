@@ -5,12 +5,12 @@ date = "2014-10-12T19:38:33+02:00"
 description = "Ett smarrigt och annorlunda recept på köttbullar. Servera köttbullarna i en sås av tomat och citron och njut av de goda smaker som uppenbarar sig. Servera köttbullarna och tomat- och citronsåsen tillsammans med pasta eller grönsallad."
 tags = []
 title = "Köttbullar i tomat och citronsås"
+portioner = "4"
 
 +++
 
 
 ### Ingredienser
-<span class="glyphicon glyphicon-cutlery"></span> Portioner: 4
 
 - 1 burk tomatsås/ pastasås (à 400-500 g)
 - ca 2 - 2 1/2 dl vatten

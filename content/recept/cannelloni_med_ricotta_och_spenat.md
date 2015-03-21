@@ -5,11 +5,9 @@ date = "2015-03-21T16:43:45+01:00"
 description = ""
 tags = []
 title = "Cannelloni med ricotta och spenat"
+tid = "40 min"
+portioner = "4"
 +++
-
-<span class="glyphicon glyphicon-cutlery"></span> Portioner: 4
-
-<span class="glyphicon glyphicon-time"></span> 40 minuter
 
 ### Ingredienser
 - 400 g   cannelloni

@@ -5,11 +5,11 @@ date = "2014-10-12T09:33:25+02:00"
 description = "Denna gyllene morotssoppa är både mättande och god. Låt morot, potatis, lök och buljong koka med gurkmeja, kajennpeppar och ingefära före du mixar soppan. Tillsätt sedan grädden och toppa med grovt riven morot före servering. Detta är ett recept från Buffé nr 2, 2008."
 tags = []
 title = "Gyllene morotssoppa"
+portioner = "4"
 
 +++
 
 ### Ingredienser
-<span class="glyphicon glyphicon-cutlery"></span> Portioner: 4
 
 - 5 morötter à 100 g
 - 1 gul lök

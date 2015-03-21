@@ -5,12 +5,10 @@ date = "2014-10-08T19:04:27+02:00"
 description = ""
 tags = []
 title = "Fylld pasta med spenat och valnötter"
+portioner = "4"
+tid = "20 min"
 
 +++
-
-<span class="glyphicon glyphicon-cutlery"></span> Portioner: 4
-
-<span class="glyphicon glyphicon-time"></span> 20 minuter
 
 ### Ingredienser
 - 500 g fylld färsk pasta

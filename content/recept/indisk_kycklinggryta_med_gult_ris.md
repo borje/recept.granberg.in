@@ -5,12 +5,11 @@ date = "2014-10-24T19:35:38+02:00"
 description = ""
 tags = []
 title = "Indisk kycklinggryta med gult ris"
+tid = "40 min"
+portioner = "4"
 
 +++
 
-<span class="glyphicon glyphicon-cutlery"></span> Portioner: 4
-
-<span class="glyphicon glyphicon-time"></span> 40 minuter
 
 ### Ingredienser
 
