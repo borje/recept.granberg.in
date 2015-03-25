@@ -1,6 +1,7 @@
 +++
 bild = "food/kottbullar_med_kramig_risoniotto.jpeg"
-categories = ["köttfärs"]
+categories = []
+mainingredients = [ "köttfärs" ]
 date = "2014-10-12T20:53:04+02:00"
 description = "Ett recept från Linas matkasse"
 tags = []

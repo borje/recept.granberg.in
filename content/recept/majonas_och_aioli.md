@@ -1,6 +1,7 @@
 +++
 bild = "food/majonas_och_aioli.jpeg"
-categories = []
+categories = [ "tillbehör" ]
+mainingredients = [ ]
 date = "2014-11-24T18:52:10+01:00"
 description = "Uffes recept på majonäs"
 tags = ["sås"]

@@ -1,6 +1,7 @@
 +++
 bild = "food/cannelloni_med_ricotta_och_spenat.jpeg"
 categories = []
+mainingredients = [ "vegetarisk" ]
 date = "2015-03-21T16:43:45+01:00"
 description = ""
 tags = []

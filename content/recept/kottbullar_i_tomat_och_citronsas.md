@@ -1,6 +1,7 @@
 +++
 bild = "food/kottbullar_i_tomat_och_citronsas.jpeg"
-categories = ["köttfärs"]
+categories = []
+mainingredients = [ "köttfärs" ]
 date = "2014-10-12T19:38:33+02:00"
 description = "Ett smarrigt och annorlunda recept på köttbullar. Servera köttbullarna i en sås av tomat och citron och njut av de goda smaker som uppenbarar sig. Servera köttbullarna och tomat- och citronsåsen tillsammans med pasta eller grönsallad."
 tags = []

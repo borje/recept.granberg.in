@@ -7,3 +7,8 @@ theme = "bs-recipes"
     pre = "<i class='fa fa-road'></i>"
     weight = -100
     url = "/categories"
+
+
+[taxonomies]
+    mainingredient = "mainingredients"
+    category = "categories"

@@ -1,6 +1,7 @@
 +++
 bild = "food/ortlax_med_aioliyoghurt.jpeg"
-categories = ["lax", "fisk"]
+categories = []
+mainingredients = ["lax", "fisk"]
 date = "2014-11-01T11:55:26+01:00"
 description = "Denna riktigt fräscha och hälsosamma laxrätt steker du i härliga örter som basilika, persilja och salvia. Smakerna gifter sig utmärkt med den höstiga rotfruktsblandningen och den spännande aiolin på yoghurt och senap!  Detta är ett recept från Buffé nr 8, 2009."
 tags = []

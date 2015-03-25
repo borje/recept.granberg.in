@@ -1,6 +1,7 @@
 +++
 bild = "food/tomatsoppa_med_fetaost.jpeg"
 categories = ["soppa"]
+mainingredients = [ "vegetarisk" ]
 date = "2015-02-08T14:05:21+01:00"
 description = ""
 tags = []

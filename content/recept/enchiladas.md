@@ -3,6 +3,7 @@ date = "2014-09-19T14:30:01+02:00"
 title = "Enchiladas"
 tags = ["köttfärs", "tortillas"]
 categories = ["fredagsmat"]
+mainingredients = [ "köttfärs" ]
 bild = "food/enchiladas.jpeg"
 +++
 

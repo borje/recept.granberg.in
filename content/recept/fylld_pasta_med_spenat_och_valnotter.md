@@ -1,8 +1,9 @@
 +++
 bild = "food/fylld_pasta_med_spenat_och_valnotter.jpeg"
-categories = ["vegetarisk"]
+categories = []
 date = "2014-10-08T19:04:27+02:00"
 description = ""
+mainingredients = [ "vegetarisk" ]
 tags = []
 title = "Fylld pasta med spenat och valnötter"
 portioner = "4"
