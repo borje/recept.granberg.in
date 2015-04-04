@@ -22,7 +22,7 @@ title = "Bröd med skållad råg"
 - 1 msk salt
 - 1 pkt jäst
 - 6 dl fingervarmt vatten
-- 7­8 dl vetemjöl
+- 7-­8 dl vetemjöl
 
 ### Gör så här
 #### Skållning
@@ -33,4 +33,8 @@ title = "Bröd med skållad råg"
 1. Blanda ihop skållat rågmjöl, salt, jäst och fingervarmt vatten. Blanda i mjöl tills degen inte är blöt eller rinnig, den skall dock vara lite kladdig.
 1. Låt jäsa minst en timme under bakduk.
 1. Vänd degen i grovt rågmjöl och låt vila på plåt i 30 min.
-1. Grädda i 50 -­ 55 min, ugnstemperatur 225°.
+1. Grädda i 50-­55 min, ugnstemperatur 225°.
+
+
+Tips: Den skållade rågblandingen kan stå över natten eller dagen utan problem innan bakning. Om
+ca 1/6 paket jäst och kallt vatten används passar det bra att jäsa degen över natten.
