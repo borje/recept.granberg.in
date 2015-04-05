@@ -1,5 +1,5 @@
 +++
-bild = ""
+bild = "food/brod_med_skallad_rag.jpeg"
 categories = ["bröd"]
 date = "2015-04-04T12:30:51+02:00"
 description = ""
@@ -13,9 +13,9 @@ title = "Bröd med skållad råg"
 
 ### Ingredienser
 #### Skållning
-- 2 dl rågkross
-- 2 dl grovt rågmjöl
-- 4 dl hett vatten
+- 155g rågkross (2 dl)
+- 155g grovt rågmjöl (2 dl)
+- 400g hett vatten (4 dl)
 
 #### Utbakning
 - Skållningen
