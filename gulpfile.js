@@ -11,7 +11,7 @@ gulp.task('default', function () {
       upscale : false,
       format : 'jpeg'
     })).on('error', errorHandler)
-    .pipe(gulp.dest('public/img/thumbnails/'));
+    .pipe(gulp.dest('static/img/thumbnails/'));
 });
 
 // Handle the error
