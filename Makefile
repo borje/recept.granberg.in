@@ -5,6 +5,7 @@ tipue: hugo
 	./generateTipuePages.py public/recept
 	
 server: tipue
+	gulp
 	hugo server --watch
 
 publish: tipue
