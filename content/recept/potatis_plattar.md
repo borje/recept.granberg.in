@@ -12,7 +12,7 @@ title = "Potatisplättar"
 +++
 
 ### Ingredienser
-- 5dl potatismos
+- 5 dl potatismos
 - 3 ägg
 - 2 msk mjöl (eventuellt)
 - 1/2 dl mjölk
@@ -23,4 +23,4 @@ title = "Potatisplättar"
 1. Blanda ihop
 1. Stek
 
-Tips från Maggan: Ifall man vill ha en lösare smet, ska man blanda i ytterligare ett ägg.
+Tips från Maggan: Ifall man vill ha en lösare smet kan man blanda i ytterligare ett ägg.
