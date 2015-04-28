@@ -3,9 +3,9 @@ bild = "food/majonas_och_aioli.jpeg"
 categories = [ "tillbehör" ]
 mainingredients = [ ]
 date = "2014-11-24T18:52:10+01:00"
-description = "Uffes recept på majonäs"
+description = "Uffes recept på majonnäs"
 tags = ["sås"]
-title = "Majonäs och aioli"
+title = "Majonnäs och aioli"
 
 +++
 
@@ -28,8 +28,8 @@ title = "Majonäs och aioli"
 ## Aioli
 
 #### Ingredienser:
-- 1 rejäl vitlöksklyfta till 1 dl majonäs
+- 1 rejäl vitlöksklyfta till 1 dl majonnäs
 
 #### Gör så här:
-1. Pressa bara i vitlöken i majonäsen. Låt gärna stå och dra i ett dygn innan du serverar
+1. Pressa bara i vitlöken i majonnäsen. Låt gärna stå och dra i ett dygn innan du serverar
 
