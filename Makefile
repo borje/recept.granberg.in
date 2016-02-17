@@ -10,8 +10,10 @@ server: tipue
 
 publish: tipue
 	gulp
-	test -e /Volumes/Web/recept
-	hugo -d /Volumes/Web/recept
+	hugo
+	rsync -vaz public pi:www/recept.granberg.in
+	#test -e /Volumes/Web/recept
+	#hugo -d /Volumes/Web/recept
 
 clean:
 	rm -rf public
