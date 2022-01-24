@@ -11,7 +11,8 @@ server: tipue
 publish: tipue
 	gulp
 	hugo
-	rsync -vaz public pi:www/recept.granberg.in
+#	rsync -vaz public/* granberg.in:2222:www/recept.granberg.in
+	rsync -vaz public/* pi@192.168.1.18:www/recept.granberg.in
 	#test -e /Volumes/Web/recept
 	#hugo -d /Volumes/Web/recept
 

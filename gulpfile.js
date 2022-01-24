@@ -3,7 +3,7 @@ var gulp = require('gulp');
 var imageResize = require('gulp-image-resize');
  
 gulp.task('default', function () {
-  gulp.src('static/img/**')
+  gulp.src('static/img/food/*')
     .pipe(imageResize({ 
       width : 300,
       height : 275,
@@ -11,7 +11,7 @@ gulp.task('default', function () {
       upscale : false,
       format : 'jpeg'
     })).on('error', errorHandler)
-    .pipe(gulp.dest('static/img/thumbnails/'));
+    .pipe(gulp.dest('static/img/thumbnails/food/'));
 });
 
 // Handle the error
