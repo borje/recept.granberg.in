@@ -1,5 +1,5 @@
 +++
-bild = "food/risgrynsgroet_i_ugn.jpeg"
+bild = "risgrynsgroet_i_ugn.jpeg"
 categories = ["jul", "gröt"]
 mainingredients = [ ]
 date = "2015-01-09T16:44:36+01:00"

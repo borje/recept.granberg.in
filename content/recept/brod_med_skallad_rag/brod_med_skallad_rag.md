@@ -1,5 +1,5 @@
 +++
-bild = "food/brod_med_skallad_rag.jpeg"
+bild = "brod_med_skallad_rag.jpeg"
 categories = ["bröd"]
 date = "2015-04-04T12:30:51+02:00"
 description = ""

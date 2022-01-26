@@ -1,5 +1,5 @@
 +++
-bild = "food/mormor_jens_vafflor.jpeg"
+bild = "mormor_jens_vafflor.jpeg"
 categories = ["mellanmål"]
 date = "2015-04-12T21:30:15+02:00"
 description = ""

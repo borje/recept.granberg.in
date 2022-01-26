@@ -1,5 +1,5 @@
 +++
-bild = "food/tommy_myllymakis_texas_chili.jpeg"
+bild = "tommy_myllymakis_texas_chili.jpeg"
 categories = ["gryta"]
 date = "2015-09-20T21:24:40+02:00"
 description = ""

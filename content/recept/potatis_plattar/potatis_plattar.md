@@ -1,5 +1,5 @@
 +++
-bild = "food/potatisplattar.jpeg"
+bild = "potatisplattar.jpeg"
 categories = ["lunch"]
 date = "2015-04-12T21:16:16+02:00"
 description = "Tinas mormors recept"

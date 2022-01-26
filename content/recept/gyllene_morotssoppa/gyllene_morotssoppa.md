@@ -1,5 +1,5 @@
 +++
-bild = "food/gyllene_morotssoppa.jpeg"
+bild = "gyllene_morotssoppa.jpeg"
 categories = ["soppa"]
 mainingredients = [ "vegetarisk" ]
 date = "2014-10-12T09:33:25+02:00"

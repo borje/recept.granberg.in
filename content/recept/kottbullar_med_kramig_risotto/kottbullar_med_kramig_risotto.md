@@ -1,5 +1,5 @@
 +++
-bild = "food/kottbullar_med_kramig_risoniotto.jpeg"
+bild = "kottbullar_med_kramig_risoniotto.jpeg"
 categories = []
 mainingredients = [ "köttfärs" ]
 date = "2014-10-12T20:53:04+02:00"

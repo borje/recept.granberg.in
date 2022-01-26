@@ -1,5 +1,5 @@
 +++
-bild = "food/majonas_och_aioli.jpeg"
+bild = "majonas_och_aioli.jpeg"
 categories = [ "tillbehör" ]
 mainingredients = [ ]
 date = "2014-11-24T18:52:10+01:00"

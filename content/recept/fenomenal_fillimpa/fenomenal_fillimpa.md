@@ -1,5 +1,5 @@
 +++
-bild = "food/fenomenal_fillimpa.jpeg"
+bild = "fenomenal_fillimpa.jpeg"
 categories = ["bröd"]
 date = "2015-12-09T11:00:37+01:00"
 description = "Smakrikt och saftigt bröd som nästan lagar sig självt."

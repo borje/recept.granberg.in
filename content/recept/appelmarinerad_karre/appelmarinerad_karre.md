@@ -1,5 +1,5 @@
 +++
-bild = "food/appelmarinerad_flaskkarre.jpeg"
+bild = "appelmarinerad_flaskkarre.jpeg"
 categories = ["grillat"]
 date = "2017-08-06T13:22:06+02:00"
 description = ""

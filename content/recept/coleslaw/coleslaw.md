@@ -1,5 +1,5 @@
 +++
-bild = "food/coleslaw.jpeg"
+bild = "coleslaw.jpeg"
 categories = ["tillbehör"]
 date = "2015-04-15T20:38:56+02:00"
 description = "Coleslaw är en krämig vitkålssallad med morot och majonnäs. Servera coleslaw som tillbehör till exempelvis grillat kött, hamburgare eller revbensspjäll. Detta är ett recept från Buffé nr 6, 1999."

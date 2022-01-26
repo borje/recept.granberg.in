@@ -4,7 +4,7 @@ title = "Enchiladas"
 tags = ["köttfärs", "tortillas"]
 categories = ["fredagsmat"]
 mainingredients = [ "köttfärs" ]
-bild = "food/enchiladas.jpeg"
+bild = "enchiladas.jpeg"
 +++
 
 ### Ingredienser

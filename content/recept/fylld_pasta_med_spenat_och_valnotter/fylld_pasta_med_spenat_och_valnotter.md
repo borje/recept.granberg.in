@@ -1,5 +1,5 @@
 +++
-bild = "food/fylld_pasta_med_spenat_och_valnotter.jpeg"
+bild = "fylld_pasta_med_spenat_och_valnotter.jpeg"
 categories = []
 date = "2014-10-08T19:04:27+02:00"
 description = ""

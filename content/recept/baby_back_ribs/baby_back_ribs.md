@@ -1,5 +1,5 @@
 +++
-bild = "food/baby_back_ribs.jpeg"
+bild = "baby_back_ribs.jpeg"
 categories = ["grillat"]
 mainingredients = [ "kött", "revbensspjäll" ]
 date = "2014-10-12T00:03:32+02:00"

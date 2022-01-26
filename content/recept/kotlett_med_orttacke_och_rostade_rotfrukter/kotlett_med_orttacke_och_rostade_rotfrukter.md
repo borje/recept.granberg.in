@@ -1,5 +1,5 @@
 +++
-bild = "food/kotlett_med_orttacke_och_rostade_rotfrukter.jpeg"
+bild = "kotlett_med_orttacke_och_rostade_rotfrukter.jpeg"
 categories = ["middag"]
 date = "2016-02-16T14:21:08+01:00"
 description = ""

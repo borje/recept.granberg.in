@@ -1,5 +1,5 @@
 +++
-bild = "food/chicken_tikka_med_gurksallad.jpeg"
+bild = "chicken_tikka_med_gurksallad.jpeg"
 categories = []
 date = "2016-02-17T11:51:42+01:00"
 description = "Krämig Chicken Tikka med en lätt gurksallad och basmatiris är en matig och alltid lika populär middagsrätt. Grytan kan alternativt serveras med bröd, gärna indiskt. Detta är ett recept från Buffé nr 2, 2011."

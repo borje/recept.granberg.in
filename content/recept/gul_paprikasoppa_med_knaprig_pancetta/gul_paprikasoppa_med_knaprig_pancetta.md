@@ -1,5 +1,5 @@
 +++
-bild = "food/gul_paprikasoppa_med_knaprig_pancetta.jpeg"
+bild = "gul_paprikasoppa_med_knaprig_pancetta.jpeg"
 categories = ["soppa"]
 mainingredients = [ "vegetarisk" ]
 date = "2014-10-11T20:23:27+02:00"

@@ -1,5 +1,5 @@
 +++
-bild = "food/indisk_kycklinggryta_med_gult_ris.jpeg"
+bild = "indisk_kycklinggryta_med_gult_ris.jpeg"
 categories = ["gryta"]
 mainingredients = [ "kyckling" ]
 date = "2014-10-24T19:35:38+02:00"

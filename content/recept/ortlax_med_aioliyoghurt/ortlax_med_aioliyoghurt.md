@@ -1,5 +1,5 @@
 +++
-bild = "food/ortlax_med_aioliyoghurt.jpeg"
+bild = "ortlax_med_aioliyoghurt.jpeg"
 categories = []
 mainingredients = ["lax", "fisk"]
 date = "2014-11-01T11:55:26+01:00"
