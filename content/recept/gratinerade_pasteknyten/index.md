@@ -1,6 +1,6 @@
 +++
 bild = "gratinerade_pastaknyten_med_valnotter_och_fetaost.jpeg"
-categories = ["vegetariskt"]
+categories = ["vegetarisk"]
 date = "2019-01-14T13:22:06+02:00"
 description = ""
 mainingredients = ["tortellini"]
