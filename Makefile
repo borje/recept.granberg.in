@@ -5,14 +5,14 @@ tipue: hugo
 	./generateTipuePages.py public/recept
 	
 server: tipue
-	gulp
+#	gulp
 	hugo server --watch
 
 publish: tipue
-	gulp
+#	gulp
 	hugo
 #	rsync -vaz public/* granberg.in:2222:www/recept.granberg.in
-	rsync -vaz public/* pi@192.168.1.18:www/recept.granberg.in
+#	rsync -vaz public/* pi@192.168.1.18:www/recept.granberg.in
 	#test -e /Volumes/Web/recept
 	#hugo -d /Volumes/Web/recept
 

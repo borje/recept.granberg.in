@@ -2,3 +2,4 @@ public
 themes
 .DS_Store
 static/img/thumbnails/
+node_modules
